@@ -1,4 +1,4 @@
-<h2> Hey there! bangameck.</h2>
+<h2> Hey there! I'm bangameck.</h2>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bangameck?style=social) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChbu6CEMvD3RO1RBo9ADldg?label=RRA%20Dev&style=social)
