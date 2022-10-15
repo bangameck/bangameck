@@ -1,8 +1,4 @@
 <h2> Hey there! bangameck.</h2>
-<br>
-<a class="twitter-follow-button"
-  href="https://twitter.com/bangameck">
-Follow @bangameck</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -36,4 +32,4 @@ Follow @bangameck</a>
 &nbsp; <a href="mailto:rahmad.looker@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-👽 From bangameck](https://github.com/bangameck)
+👽 From [bangameck](https://github.com/bangameck)
