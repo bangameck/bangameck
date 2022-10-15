@@ -1,4 +1,8 @@
 <h2> Hey there! bangameck.</h2>
+<br>
+<a class="twitter-follow-button"
+  href="https://twitter.com/bangameck">
+Follow @bangameck</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
