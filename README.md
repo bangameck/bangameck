@@ -113,11 +113,13 @@ Saya membangun **produk nyata**, bukan sekadar demo:
 
 ## 🧾 Digital Signature
 
+```text
 Signed-Off-By : Bangameck
 Role          : Independent Full Stack Developer
 Brand         : RadevankaProject
 Specialty     : Flutter • Laravel • Biometric System
-Location      : PEkanbaru, Indonesia
+Location      : Pekanbaru, Indonesia
+```
 
 > _"Build with logic. Secure with discipline. Deliver with pride."_
 
