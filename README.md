@@ -109,6 +109,12 @@ Saya membangun **produk nyata**, bukan sekadar demo:
 [![TikTok](https://img.shields.io/badge/TikTok-@bangameck.dev-000000?logo=tiktok)](https://tiktok.com/@bangameck.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-Bangameck-1877F2?logo=facebook&logoColor=white)](https://facebook.com/bangameck95)
 
+Kamu bisa mentraktir saya segelas kopi melalui link di bawah ini (support dev):
+
+<a href="https://trakteer.id/rproject" target="_blank">
+  <img src="https://img.shields.io/badge/Trakteer-Traktir_Kopi_Developer-E11D48?style=for-the-badge&logo=kofi&logoColor=white" alt="Support via Trakteer">
+</a>
+
 ---
 
 ## 🧾 Digital Signature
