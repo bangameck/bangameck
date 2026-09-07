@@ -129,5 +129,5 @@ Location      : Pekanbaru, Indonesia
 
 > _"Build with logic. Secure with discipline. Deliver with pride."_
 
-👽 From [bangameck • 🚀 RadevankaProject](https://github.com/bangameck)
+👽 From [bangameck • 🚀 RadevankaProject](https://github.com/radevankaproject)
 
