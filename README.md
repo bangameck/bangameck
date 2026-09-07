@@ -120,10 +120,10 @@ Kamu bisa mentraktir saya segelas kopi melalui link di bawah ini (support dev):
 ## 🧾 Digital Signature
 
 ```text
-Signed-Off-By : Bangameck
+Signed-Off-By : Rahmad Riskiadi
 Role          : Independent Full Stack Developer
 Brand         : RadevankaProject
-Specialty     : Flutter • Laravel • Biometric System
+Specialty     : Web & Mobile Android
 Location      : Pekanbaru, Indonesia
 ```
 
